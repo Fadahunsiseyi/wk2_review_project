@@ -61,12 +61,12 @@ img {
 }
 
 #img-caption {
-    margin: 15px 0 5px 0;
+  margin: 15px 0 5px 0;
 }
 
 @media (max-width: 460px) {
   #img-caption {
-   font-size: 1.4rem;
+    font-size: 1.4rem;
   }
 }
 
