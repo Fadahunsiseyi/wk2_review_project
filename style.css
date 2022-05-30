@@ -16,12 +16,12 @@ h1 {
 }
 
 @media (max-width: 460px) {
-h1 {
-  font-size: 3.5rem;
-  line-height: 1.2;
-}
+  h1 {
+    font-size: 3.5rem;
+    line-height: 1.2;
   }
-  
+}
+
 h2 {
   font-size: 3.25rem;
 }
@@ -31,7 +31,7 @@ a {
 }
 
 a:visited {
-    color: #74638f;
+  color: #74638f;
 }
 
 #main {
@@ -42,10 +42,10 @@ a:visited {
 }
 
 @media (max-width: 460px) {
-#main {
-  margin: 0;
-}
+  #main {
+   margin: 0;
   }
+}
 
 img {
   max-width: 100%;
@@ -65,11 +65,11 @@ img {
 }
 
 @media (max-width: 460px) {
-#img-caption {
-  font-size: 1.4rem;
-}
+  #img-caption {
+   font-size: 1.4rem;
   }
-  
+}
+
 #headline {
   margin: 50px 0;
   text-align: center;
